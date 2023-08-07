@@ -1,0 +1,19 @@
+.card img {
+    height: 280px;
+}
+
+.jumbotron {
+    background-color: #212529; /* Cor de fundo cinza */
+    color: #ffffff; /* Cor do texto branco */
+    height: 200px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 70px;
+}
+
+.container-fluid{
+    background-color: #f8f9fa!important;
+}
+
